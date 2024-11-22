@@ -1,1 +1,2 @@
-50 40 30 20 10
+Jersey No: 7
+Country: India
